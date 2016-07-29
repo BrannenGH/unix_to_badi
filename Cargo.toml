@@ -1,0 +1,6 @@
+[package]
+name = "unix_to_badi"
+version = "0.1.0"
+authors = ["Brannen Hall <Brannen@HurtadoHall.me>"]
+
+[dependencies]
